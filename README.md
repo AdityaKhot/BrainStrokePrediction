@@ -1,6 +1,5 @@
 # BrainStroke Prediction
 
-Link for the Dataset : https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 Libraries Used
 
