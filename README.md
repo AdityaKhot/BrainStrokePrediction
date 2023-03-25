@@ -3,11 +3,11 @@
 
 Libraries Used
 
-1. Pre-processing of Data ( Pandas, Numpy )
+1. Pre-processing of Data (Pandas, Numpy)
 
-2. Graphical Representation ( Matplotlib, Seaborn )
+2. Graphical Representation (Matplotlib, Seaborn)
 
-3. Scaling and Oversampling ( Sklearn.preprocessing, imblearn )
+3. Scaling and Oversampling (Sklearn.preprocessing, imblearn)
 
 
 # Pre-processing
